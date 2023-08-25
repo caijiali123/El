@@ -1,0 +1,8 @@
+server:
+  port:
+datasource:
+  driverName:mysql
+  host:10.132.166.89
+  port:4000
+  database:
+  username:
